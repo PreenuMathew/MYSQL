@@ -1,0 +1,6 @@
+Manager_Id,First_name,Last_name,DOB,Age,gender,department,Salary
+10001,Bob,Sam,1994-12-02,30,M,IT,60000
+10003,Teena,Sam,1995-12-02,29,F,IT,70000
+10006,Rohit,Sharma,1988-12-06,36,M,IT,60000
+10013,Vikas,Moorthy,1991-06-02,33,M,IT,30000
+10015,Jojo,Kurian,1989-11-05,35,M,IT,90000
