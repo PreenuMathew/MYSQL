@@ -1,0 +1,10 @@
+Person_id,First_name,Last_name,Population,Rating,Country_id,Country_name
+11,Isabella,Scott,17000000,3.08,9,Russia
+12,Sophia,Smith,5000000,4.12,10,Bangladesh
+13,Daniel,Clark,17000000,5.00,9,Russia
+14,Clivia,Harris,4000000,3.28,4,UK
+15,Robert,Thomas,1000000,4.08,13,Ethiopia
+16,Laura,Anderson,5000000,5.08,12,Japan
+20,Sarah,Williams,18000000,4.08,14,Philippines
+21,Michael,Brown,8000000,3.08,1,China
+22,Emily,Johnson,4000000,3.08,4,UK

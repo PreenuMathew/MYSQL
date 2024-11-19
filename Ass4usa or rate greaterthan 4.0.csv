@@ -1,0 +1,5 @@
+Person_id,First_name,Last_name,Population,Rating,Country_id,Country_name
+10,John,Smith,18000000,4.08,3,USA
+13,Daniel,Clark,17000000,5.00,9,Russia
+16,Laura,Anderson,5000000,5.08,12,Japan
+18,Jessica,Martinez,18000000,4.08,3,USA
